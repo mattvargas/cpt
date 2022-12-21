@@ -1,0 +1,524 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 138px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 145px;
+  width: 594px;
+  margin: -79px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 154px;
+  height: 154px;
+  margin: -82px auto 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 125px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 132px;
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -69px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 76px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 83px;
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -20px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1308px;
+}
+
+.u-section-2 .u-text-1 {
+  font-style: italic;
+  margin: 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 4.4375rem;
+  font-style: italic;
+  margin: 39px 0 0;
+}
+
+.u-section-2 .u-text-3 {
+  font-style: italic;
+  margin: 0 108px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 82px 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 592px;
+  background-image: url("images/cabocloseteflechas.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 382px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 82px;
+  width: 82px;
+  background-image: none;
+  color: rgb(255, 255, 255) !important;
+  margin: 14px auto 0 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: 400;
+  margin: 29px auto 0 0;
+}
+
+.u-section-2 .u-text-5 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 20px 26px 0 0;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 385px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 82px;
+  width: 82px;
+  background-image: none;
+  margin: 14px auto 0 0;
+}
+
+.u-section-2 .u-text-6 {
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: 400;
+  margin: 29px auto 0 0;
+}
+
+.u-section-2 .u-text-7 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 20px 26px 0 0;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: url("images/paiciprianoquimbandeirodasalmas.jpg");
+  background-position: 50% 50%;
+  min-height: 589px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-3 {
+  min-height: 509px;
+  background-image: url("images/mestrezarithamy.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-6 {
+  min-height: 465px;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-2 .u-icon-3 {
+  height: 82px;
+  width: 82px;
+  background-image: none;
+  color: rgb(255, 255, 255) !important;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-text-8 {
+  font-size: 1.875rem;
+  font-style: normal;
+  font-weight: 400;
+  margin: 34px auto 0 0;
+}
+
+.u-section-2 .u-text-9 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 16px 26px 0 0;
+}
+
+.u-section-2 .u-text-10 {
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1137px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 437px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 940px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 488px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 315px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 317px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 486px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 420px;
+  }
+
+  .u-section-2 .u-layout-cell-6 {
+    min-height: 383px;
+  }
+
+  .u-section-2 .u-text-9 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2060px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 561px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 558px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 965px;
+  }
+
+  .u-section-2 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2213px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 842px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 837px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 724px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1591px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 340px;
+    font-size: 3rem;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 530px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 527px;
+  }
+
+  .u-section-2 .u-image-3 {
+    min-height: 456px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 836px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  width: 1014px;
+  margin: 0 auto 60px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 747px;
+  background-image: url("images/armandodirigente.jpg");
+  background-position: 50% 0%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 747px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 30px 0;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 48px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 80px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    position: relative;
+    width: 940px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 693px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 693px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 479px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 531px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 706px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 797px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 565px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 502px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1056px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 943px;
+  height: 918px;
+  margin: 0 auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1053px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 940px;
+    height: 915px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 839px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 720px;
+    height: 701px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 664px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 540px;
+    height: 526px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 469px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 340px;
+    height: 331px;
+  }
+}
